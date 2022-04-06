@@ -18,7 +18,7 @@ def whatsappbot():
     response = MessagingResponse()
   
     # User search
-    q = user_msg + "geeksforgeeks.org"
+    q = user_msg + "testing"
   
     # list
     result = []
